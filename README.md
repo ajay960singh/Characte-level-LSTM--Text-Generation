@@ -1,6 +1,6 @@
 # Characte-level-LSTM--Text-Generation
 
-## Data Used
+### Data Used
 
-cnvjkefbves
+Download the dataset from here- https://www.kaggle.com/freecodecamp/all-posts-public-main-chatroom
 
